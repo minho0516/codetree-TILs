@@ -11,7 +11,7 @@ int main() {
     }
     else if(num == 2)
     {
-        cout << "Tom,";
+        cout << "Tom";
     }
     else if(num == 3)
     {
