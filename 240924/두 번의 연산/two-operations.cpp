@@ -14,5 +14,7 @@ int main() {
     {
         a /= 3;
     }
+
+    cout << a;
     return 0;
 }
