@@ -31,7 +31,7 @@ int main() {
     {
         hg3 = true;
     }
-    else if(hadGamgi1 == 'N')
+    else if(hadGamgi3 == 'N')
     {
         hg3 = false;
     }
